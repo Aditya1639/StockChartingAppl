@@ -1,3 +1,4 @@
+## StockCharting
 StockCharting web application is made to complete the phase 3 of training at IIHT
 
 BackendAppl folder contains the stocklist and Jwt authentication microservices.
